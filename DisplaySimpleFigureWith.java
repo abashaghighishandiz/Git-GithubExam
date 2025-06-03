@@ -10,18 +10,15 @@ public class DisplaySimpleFigureWithJava {
         System.out.println("* | | | | | *");
     }
 }
-<<<<<<< HEAD
 public static void fourStar(){
     System.out.println("    *****    ");
 }
 
-=======
 public static void stars(){
     System.out.println("    *****    ");
     System.out.println("  *********  ");
     System.out.println("*************");
 }
->>>>>>> stars-branch
 
 
 
